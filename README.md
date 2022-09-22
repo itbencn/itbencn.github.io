@@ -1,4 +1,4 @@
 # itbencn.github.io
 Blog 😜
 
-<a href="https://itbencn.github.io">Here</a>
+<a target="_blank" href="https://itbencn.github.io">Here</a>
